@@ -1,0 +1,26 @@
+.box{
+    margin-left: 5px;
+    text-align: center;
+}
+.box ul li{
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+    border-radius: 8px;
+    margin-top:5px; 
+    border: 1px black solid;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 800;
+}
+.box .box_head li:hover{
+    background: blue;
+    cursor: pointer;
+    color:white;
+}
+.my_head{
+}
+.my_nenobook{
+}
+.my_real{
+}
